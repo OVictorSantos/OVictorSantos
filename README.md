@@ -2,7 +2,7 @@
 <br>
 
 <li> 🎓 Cursando superior em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital </li>
-<li> 🌱 Aualmente estou aprendendo JavaScript, HTML, CSS. </li>
+<li> 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS. </li>
 
 <br><br>
 
