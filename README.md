@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Pra entrar em contato comigo me segue nas redes abaixo!
+  ### Pra entrar em contato comigo me siga nas redes abaixo!
  
 <div>  
   <a href = "mailto:victorsantos4755@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
