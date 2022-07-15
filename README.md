@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Seja bem vindo(a) ao meu perfil <img src="https://i.imgur.com/ZEkFJCG.gif" height="40" width="40" alt="hulkpls"></h1>
 <br>
 
-<li> 🎓 Cursando superior em Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital </li>
+<li> 🎓 Cursando superior em Análise e Desenvolvimento de Sistemas na Faculdade Uniamérica </li>
 <li> 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS. </li>
 
 <br><br>
