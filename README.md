@@ -2,7 +2,7 @@
 <br>
 
 <li> 🎓 Cursando superior em Análise e Desenvolvimento de Sistemas na Faculdade Uniamérica </li>
-<li> 🌱 Atualmente estou aprendendo JavaScript, HTML, CSS. </li>
+<li> 🌱 Atualmente estou aprendendo Docker, JavaScript, HTML, CSS. </li>
 
 <br><br>
 
